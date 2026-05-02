@@ -1,8 +1,20 @@
 {
   "pub_key": "BLS_VER_KEY~tMu64LNScyjBFPJ8hPmrzZ7Z4Xu6GDlqsvOIBWLn1AdlmiACoJl8sH_kfV7UxoW9oBx4xcgJzMWDwnWH1-8AC4TN4tSl_gUny7U4GTQhTPbHHC6gWREGZeR3SUGfbJIMXOUssWNdl2F7U5556I8mZCzoY1vKl-BCY_mXVt2QI6yG",
   "name": "Crypto-Volk",
-  "description": "Espresso Decaf testnet validator by volk",
-  "website": "https://t.me/crypto_volk_validator",
-  "contact": "telegram:@crypto_volk_eth",
-  "logo": "https://raw.githubusercontent.com/crypto-volk/public/refs/heads/main/logo.jpeg"
+  "description": "Independent validator and infrastructure operator focused on reliability and performance.",
+  "company_name": "Crypto-Volk",
+  "company_website": "https://github.com/crypto-volk",
+  "client_version": "sequencer-20260407",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/crypto-volk/espresso-validator-metadata/main/icon-14.png",
+      "@2x": "https://raw.githubusercontent.com/crypto-volk/espresso-validator-metadata/main/icon-28.png",
+      "@3x": "https://raw.githubusercontent.com/crypto-volk/espresso-validator-metadata/main/icon-42.png"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/crypto-volk/espresso-validator-metadata/main/icon-24.png",
+      "@2x": "https://raw.githubusercontent.com/crypto-volk/espresso-validator-metadata/main/icon-48.png",
+      "@3x": "https://raw.githubusercontent.com/crypto-volk/espresso-validator-metadata/main/icon-72.png"
+    }
+  }
 }
